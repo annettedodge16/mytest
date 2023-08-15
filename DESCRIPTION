@@ -1,0 +1,11 @@
+Package: mytest
+Title: This is a test package for training purposes
+Version: 0.0.0.9000
+Authors@R: 
+    person("Annette", "Dodge", , "annette.dodge@hc-sc.gc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package helps me familiarise myself with how R packages are created and test things out before applying them to the DupSeqR package
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
